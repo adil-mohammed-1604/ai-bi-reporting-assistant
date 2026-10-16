@@ -38,7 +38,7 @@ to the verified metrics is blocked.
         |
         +--> export_utils.py  formula-safe CSV and Excel workbook
 
- SQL Server views (sql/views.sql) --> Power BI dashboard (powerbi/bi_dashboard.pbix)
+ SQL Server views (sql/views.sql) --> Power BI dashboard (powerbi/Bi_Assistant.pbix)
 ```
 
 ## Components
